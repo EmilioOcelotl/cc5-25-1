@@ -8,7 +8,8 @@ La segunda entrega consistirá en una exploración de luces DMX, video-mapping o
 
 ## Sesiones 
 
-- [ ] [Sesión 1](./sesiones/s01.md) - Introducción a Touch Designer. 
+- [x] [Sesión 1](./sesiones/s01.md) - Introducción a Touch Designer. 
+- [ ] [Sesión 2](./sesiones/s02.md) - TOPs y primer ejercicio
 
 ## Enlaces
 
@@ -17,4 +18,5 @@ La segunda entrega consistirá en una exploración de luces DMX, video-mapping o
 
 ## Recursos Relevantes 
 
+- [TouchDesigner confluence at Mutek 2024](https://derivative.ca/event/touchdesigner-confluence-mutek-2024/69806)
 - [The Beauty of Nodes](https://derivative.ca/community-post/beauty-nodes-investigating-touchdesigner-soyun-park-and-her-students/68408)
