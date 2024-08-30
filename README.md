@@ -8,8 +8,10 @@ La segunda entrega consistirá en una exploración de luces DMX, video-mapping o
 
 ## Sesiones 
 
-- [x] [Sesión 1](./sesiones/s01.md) - Introducción a Touch Designer. 
-- [ ] [Sesión 2](./sesiones/s02.md) - TOPs y primer ejercicio
+- [x] [Sesión 1](./sesiones/s01.md) - Introducción a TouchDesigner. 
+- [x] [Sesión 2](./sesiones/s02.md) - TOPs y primer ejercicio.
+- [x] [Sesión 3](./sesiones/s03.md) - Retroalimentación y CHOPs.
+- [ ] [Sesión 4](./sesiones/s04.md) - Texto, TimeMachine y MovieFileOut. 
 
 ## Enlaces
 
