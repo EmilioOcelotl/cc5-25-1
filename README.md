@@ -12,7 +12,8 @@ La segunda entrega consistirá en una exploración de luces DMX, video-mapping o
 - [x] [Sesión 2](./sesiones/s02.md) - TOPs y primer ejercicio.
 - [x] [Sesión 3](./sesiones/s03.md) - Retroalimentación y CHOPs.
 - [x] [Sesión 4](./sesiones/s04.md) - Texto y MovieFileOut. 
-- [ ] [Sesión 5](./sesiones/s05.md) - SOPs y 3D en TouchDesigner. 
+- [x] [Sesión 5](./sesiones/s05/s05.md) - SOPs y 3D en TouchDesigner. 
+- [ ] [Sesión 6](./sesiones/s06/s06.md) - Luces en movimiento
 
 ## Enlaces
 
