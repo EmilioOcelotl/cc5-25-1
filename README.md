@@ -14,7 +14,10 @@ La segunda entrega consistirá en una exploración de luces DMX, video-mapping o
 - [x] [Sesión 4](./sesiones/s04.md) - Texto y MovieFileOut
 - [x] [Sesión 5](./sesiones/s05/s05.md) - SOPs y 3D en TouchDesigner 
 - [x] [Sesión 6](./sesiones/s06/s06.md) - Luces en movimiento
-- [ ] [Sesión 7](./sesiones/s07/s07.md) - Sonido y control
+- [x] [Sesión 7](./sesiones/s07/s07.md) - Sonido y control
+- [x] Sesión 8. Práctica con señales de sonido y superficies en 3D
+- [x] [Sesión 9](./sesiones/s09/s09.md) - Video mapping y Kantan Mapper
+- [ ] Sesión 10. Práctica de mapping y planeación. 
 
 ## Enlaces
 
